@@ -41,7 +41,11 @@ A sleek, modern Windows Forms puzzle game built with C# and .NET 8. Test your lo
 
 ## 🖼️ Screenshots
 
-> *Coming soon — add screenshots of the gameplay, rules panel, and result dialogs here.*
+> *Coming soon — add screenshots of the gameplay, rules panel, and result dialogs here.
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+*
 
 ---
 

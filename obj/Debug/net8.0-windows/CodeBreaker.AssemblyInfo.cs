@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CodeBreaker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47525ed9037840835dc7eef40636e490cc18b775")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2673097b09838d9d496496d037b5f044c73044b1")]
 [assembly: System.Reflection.AssemblyProductAttribute("CodeBreaker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CodeBreaker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
