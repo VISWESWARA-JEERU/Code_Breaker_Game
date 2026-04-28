@@ -40,3 +40,4 @@ C:\projects\Game\obj\Debug\net8.0-windows\refint\CodeBreaker.dll
 C:\projects\Game\obj\Debug\net8.0-windows\CodeBreaker.pdb
 C:\projects\Game\obj\Debug\net8.0-windows\CodeBreaker.genruntimeconfig.cache
 C:\projects\Game\obj\Debug\net8.0-windows\ref\CodeBreaker.dll
+C:\projects\Game\obj\Debug\net8.0-windows\CodeBreaker.sourcelink.json
